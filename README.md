@@ -10,3 +10,5 @@ The patterns obtained are given as input along with the pm2.5 data to FCI tool. 
 For more information checkout my paper and cite it as:
 
 S.Sharmiladevi , S.Siva Sathya, "Closed Pattern Mining And Causal Analysis Of Pollution Data" , Indian Journal of Environmental Protection,January 2021, Vol. 41 ,No. 01, pp 42-49 
+
+https://ijep.co.in/uploads/journals/16140923135578.pdf

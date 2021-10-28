@@ -5,7 +5,7 @@ The pm2.5 air pollution data of various stations in delhi is transactionised as 
 ### Pattern finding
 Each seasons data are transformed into txt file that is supported by the SPMF tool.The closed patterns are found using the CloFAST algorithm.(http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 ### Causal analysis 
-The patterns obtained are given as input along with the pm2.5 data to FCI tool. The resulting output are a set of causal pattern.
+The patterns obtained are given as input along with the pm2.5 data to FCI algorithm. The resulting output are a set of causal pattern.
 
 For more information checkout my paper and cite it as:
 
